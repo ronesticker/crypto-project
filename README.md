@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Nama Project ⚡
+# 🚀 Crypto Project ⚡
 
 Deskripsi singkat, jelas, dan to the point tentang project ini.  
 Contoh: *Tool sederhana untuk eksplorasi crypto, automation, atau AI-based utilities.*

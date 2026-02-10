@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🚀 Crypto Project ⚡
+# 🤖 Crypto Trading Bot & AI Agent ⚡
 
-Deskripsi singkat, jelas, dan to the point tentang project ini.  
-Contoh: *Tool sederhana untuk eksplorasi crypto, automation, atau AI-based utilities.*
+AI-powered crypto trading & analysis bot  
+dibangun untuk automasi, riset market, dan decision support.
 
 ![GitHub stars](https://img.shields.io/github/stars/username/nama-repo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/username/nama-repo?style=social)
@@ -13,36 +13,45 @@ Contoh: *Tool sederhana untuk eksplorasi crypto, automation, atau AI-based utili
 
 ---
 
-## ✨ Tentang Project
-Project ini dibuat untuk:
-- 🎯 Tujuan utama project
-- 🧠 Problem yang ingin diselesaikan
-- ⚙️ Solusi yang ditawarkan
+## 🧠 Overview
+Project ini adalah **crypto trading bot + AI agent** yang dirancang untuk:
+- 📊 Menganalisis market crypto secara real-time
+- 🤖 Membantu decision making (long / short / hold)
+- ⚡ Mengurangi emosi dalam trading
+- 🧪 Eksperimen strategi & indikator
 
-Project ini masih **actively developed** dan terbuka untuk improvement.
+⚠️ **Bukan financial advice. Gunakan dengan risiko sendiri.**
 
 ---
 
 ## 🔥 Fitur Utama
-- ✅ Fitur utama pertama
-- ✅ Fitur utama kedua
-- ✅ Mudah dikembangkan
-- ✅ Struktur rapi & scalable
+- 📈 Market analysis (price, volume, trend)
+- 🤖 AI Agent untuk signal & insight
+- 🧠 Strategy-based logic (rule-based / AI)
+- ⏱️ Real-time / near real-time data
+- 🔌 Mudah diintegrasikan dengan exchange API
+- 🧩 Modular & scalable
 
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Python / JavaScript ⚡  
-- **Framework:** (jika ada)  
-- **Tools:** Git, GitHub, CLI  
+- **Language:** Python ⚡  
+- **AI / Logic:** Rule-based / ML / LLM  
+- **API:** Exchange API (Binance, Bybit, dll)
+- **Tools:** Git, GitHub, CLI
 
 ---
 
 ## 📂 Struktur Folder
 ```text
 .
-├── src/        # Source code utama
-├── docs/       # Dokumentasi tambahan
-├── assets/     # Gambar / media
+├── src/
+│   ├── agent/        # AI agent logic
+│   ├── strategy/     # Trading strategy
+│   ├── data/         # Market data handler
+│   ├── utils/        # Helper functions
+│   └── main.py
+├── docs/             # Dokumentasi & roadmap
+├── assets/           # Gambar / diagram
 ├── README.md
 └── LICENSE
